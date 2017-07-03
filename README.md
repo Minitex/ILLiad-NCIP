@@ -1,4 +1,7 @@
 # ILLiad-NCIP
+
+NOTE: The minitex-multi-barcode branch implements changes from a version of these files provided by Kurt Munson at Northwestern that was different than what is seen in the GitHub repository here: https://github.com/kurtmunson/ILLiad-NCIP. The changes to this branch are from the file he provided and may not provide clear diffs from the master branch found in this repository.
+
 ILLiad Alma NCIP Addon
 ILLiad/Alma NCIP Addon
 History, Functionality, Configuration, Use, Other Considerations
